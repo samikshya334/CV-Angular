@@ -1,0 +1,137 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color:#D4BAD1; /* Light brown background */
+  color: #444;
+}
+
+/* Container Styles */
+.login-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #D4BAD1; /* Dark brown background */
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Logo Styles */
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Image Styles */
+.portfolio {
+  width: 150px; /* Adjust the width as needed */
+  height: 150px; /* Adjust the height as needed */
+  border-radius: 50%; /* Makes the image round */
+  margin-right: 20px; /* Adds some space between the image and text */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow effect */
+}
+
+
+.desc {
+  margin-bottom: 30px;
+}
+
+/* Contact Info Styles */
+.contact-info p {
+  margin-bottom: 5px;
+}
+
+/* Experience Styles */
+.experience h2 {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #423b2d; /* Dark brown text */
+}
+
+.experience ul {
+  list-style-type: none;
+}
+
+.experience li {
+  margin-bottom: 5px;
+}
+
+/* Education Styles */
+.education h2 {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  color: #423b2d; /* Dark brown text */
+}
+
+.education p {
+  margin-bottom: 5px;
+}
+
+/* Projects Styles */
+.projects h2 {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #423b2d; /* Dark brown text */
+}
+
+.projects p {
+  margin-bottom: 5px;
+}
+
+.projects .project-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.projects .project-link:hover {
+  text-decoration: underline;
+}
+
+/* Skills Styles */
+.skills h2 {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #423b2d; /* Dark brown text */
+}
+
+.skills ul {
+  list-style-type: none;
+}
+
+.skills li {
+  margin-bottom: 5px;
+}
+
+/* Languages Styles */
+.languages h2 {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #423b2d; /* Dark brown text */
+}
+
+.languages ul {
+  list-style-type: none;
+}
+
+.languages li {
+  margin-bottom: 5px;
+}
